@@ -22,6 +22,7 @@
 ## Prerequisites
 
 - Python 3.x installed on your system.
+- Tkinter library (usually included with Python).
 
 ## How to use it
 
